@@ -1,0 +1,7 @@
+In the dataset you get before step 5
+
+"tdata" dataframe
+mean(): Mean value
+std(): Standard deviation
+PNo.: Person number
+ToT: Test or Train
