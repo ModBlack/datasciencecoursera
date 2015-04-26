@@ -1,4 +1,5 @@
 datasciencecoursera
 ===================
 
-This is for Course Project
+run_analysis.R is for Course Getting and Cleaning Data
+
